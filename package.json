@@ -1,0 +1,29 @@
+{
+  "name": "lenovo.go.common",
+  "version": "1.0.0",
+  "description": "The common module for smart every platform",
+  "scripts": {
+    "start": "echo 'no echo'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zeqi/smart.go.common.git"
+  },
+  "keywords": [
+    "lenovo.go.common",
+    "store",
+    "common"
+  ],
+  "author": "zhuxj4 <zhuxj4@lenovo.com>",
+  "license": "LENOVO",
+  "bugs": {
+    "url": "https://github.com/zeqi/smart.go.common/issues"
+  },
+  "homepage": "https://github.com/zeqi/smart.go.common",
+  "dependencies": {},
+  "devDependencies": {
+    "gulp": "3.9.1",
+    "gulp-clean": "0.3.2",
+    "gulp-jsdoc3": "1.0.1"
+  }
+}
